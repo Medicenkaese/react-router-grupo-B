@@ -1,3 +1,32 @@
-h1 .nombre{
-    Background: black 
-    }
+.nombre{
+    color: rgb(138, 138, 138);
+    text-align: center;
+    margin: 2rem;
+    font-size: 30px ;
+    font-weight: 700;
+    
+}
+.titulo{
+    margin-top: 2rem;
+}
+.contendorInformacion{
+    text-align: center;
+    align-items: center ;
+}
+.texto{
+    background-color: #F7B5CA;
+    text-align: center;
+    padding: 2rem;
+    box-shadow:1px 2px 3px 1px #ff739d ;
+}
+p{
+    padding: 1.3rem;
+    font-size: 1.1rem;
+}
+.contenedor{
+    width: 70%;
+    margin: 0 auto;
+}
+.subtitulo{
+    font-size: 1.3rem;
+}
