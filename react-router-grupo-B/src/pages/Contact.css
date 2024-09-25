@@ -1,3 +1,13 @@
-h1 {
-    Background: #ffffff
-    }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .icons {
+    /**@apply px-5 py-2 font-semibold text-white rounded-full shadow-md bg-rose-300 hover:bg-rose-500 focus:outline-none focus:ring focus:ring-violet-400 focus:ring-opacity-75;*/
+    @apply flex flex-col items-center px-12 py-5;
+  }
+  .text-info{
+    @apply text-sm text-pink-800;
+  }
+}
