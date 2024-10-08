@@ -4,10 +4,10 @@ import "./SobreNosotros.css";
 const SobreNosotros = () => {
   return (
     <section class="contenedorInformacion">
-      <h1 class="nombre">SOBRE NOSOTROS</h1>
-      <div className="texto">
+      <h1 class="nombre font-poppins">SOBRE NOSOTROS</h1>
+      <div className="texto font-poppins bg-gradient-to-b from-pink-100 to-pink-300">
         <div class="contenedor">
-          <h2 className="titulo text-3xl font-bold">BEAUTY GLOW</h2>
+          <h2 className="titulo text-3xl font-bold text-pink-600">BEAUTY GLOW</h2>
           <p>
             Creemos que todos merecen sentirse seguros y bellos sin comprometer
             su presupuesto. Nos dedicamos a ofrecer productos de maquillaje de
