@@ -13,7 +13,7 @@ const SobreNosotros = () => {
             su presupuesto. Nos dedicamos a ofrecer productos de maquillaje de
             la más alta calidad a precios que realmente puedes permitirte.
             Queremos que cada cliente, sin importar su situación, pueda acceder
-            a la belleza y la confianza que merecen. que tal ese?
+            a la belleza y la confianza que merecen.
           </p>
 
           <h3 className="subtitulo font-bold">Nuestra historia</h3>
